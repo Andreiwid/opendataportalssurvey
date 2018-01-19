@@ -9,7 +9,7 @@ ctx = ssl.create_default_context()
 ctx.check_hostname = False
 ctx.verify_mode = ssl.CERT_NONE
 
-urls = pd.read_csv(r'C:\temp\cats.csv', delimiter=';', encoding='latin-1' )
+urls = pd.read_csv(r'C:\temp\catsall.csv', delimiter=';', encoding='latin-1' )
 print(len(urls))
 print('start: ' + str(datetime.datetime.now()))
 
