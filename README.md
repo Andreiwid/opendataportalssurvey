@@ -1,8 +1,8 @@
 # Repository of the paper "Investigating open data portals automatically: a methodology and some illustrations"
-This is the official repository of the paper entitled _"Investigating open data portals automatically: a methodology and some illustrations"_. If you are interested in understanding what this repository contains, we suggest you first read the paper at <unpublished yet> .
+This is the official repository of the paper entitled _"Investigating open data portals automatically: a methodology and some illustrations"_. If you are interested in understanding what this repository contains, we suggest you first read the paper at _unpublished yet - wait link_.
 Here you can find all algorithms and data produced during the paper development, thus readers can check our experiments and reproduce results. Authors expect this paper and all its underlying artifacts help to grow Open Data Community and improve the use of Open Data worldwide.
 To run all the experiments, we relied on Python and Microsoft SQL Server database. Python codes and SQL scripts are fully specified in this repository. We also made available CSVs files containing the database dump of the MS-SQL Server. 
-Below are some explanations about all the files:
+Below are some explanation about all files:
 ## catsall.csv
 This is the source of all 4,019 URLs gathered from 7 different repositories prior to the identification of products/platforms. Refer to Section 4.2 of the paper. We have made a lot of adjustments to right identify the location at country level of data portals according to ISO3166 (see support file **iso3166.csv**).
 ## catsidentified_withduplication.csv
