@@ -1,5 +1,5 @@
 # Repository of the paper "Investigating open data portals automatically: a methodology and some illustrations"
-This is the official repository of the paper entitled _"Investigating open data portals automatically: a methodology and some illustrations"_. If you are interested in understanding what this repository contains, we suggest you first read the paper at _unpublished yet - wait link_.
+This is the official repository of the paper entitled _"Investigating open data portals automatically: a methodology and some illustrations"_ https://dl.acm.org/citation.cfm?id=3209292. If you are interested in understanding what this repository contains, we suggest you first read the paper at _unpublished yet - wait link_.
 Here you can find all algorithms and data produced during the paper development, thus readers can check our experiments and reproduce results. Authors expect this paper and all its underlying artifacts help to grow Open Data Community and improve the use of Open Data worldwide.
 To run all the experiments, we relied on Python and Microsoft SQL Server database. Python codes and SQL scripts are fully specified in this repository. We also made available CSVs files containing the database dump of the MS-SQL Server. 
 Below are some explanation about all files:
